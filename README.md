@@ -1,6 +1,11 @@
 # NEXA
 <h1 align="center"> NeXa | Networked Event eXperience Architecture</h1>
 <h3 align="center">Live at comming soon......</h3>
+
+## 📷 Landing Page 📷 
+![NEXA](client/public/img/front-page1.png)
+
+
 Welcome to our automated event management system, where you can easily organize events, manage registrations, and book tickets, all with just a few clicks. This system provides a hassle-free experience for both event organizers and attendees, making event management a breeze.
 <br>
 
